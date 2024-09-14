@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/AddNote.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/DownloadNoteServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/UpdateNoteServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/DeleteNoteFileServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/UsersServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/GetAllNoteServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/UploadNoteServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/DeleteNoteServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/RegisterServlet.java</file>
+            <file>file:/D:/Everynote/Api/src/java/com/everynote/api/AuthServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
